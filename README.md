@@ -1,6 +1,6 @@
 # Spanish Phrase Trainer 🇪🇸
 
-A simple Python prject to help practice Spanish
+A simple Python project to help practice Spanish
 phrases using Object-Oriented Programming (OOP).
 
 ### Features
